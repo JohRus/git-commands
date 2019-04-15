@@ -1,0 +1,5 @@
+`history | grep <search-word>`
+   --> gives list 
+       (example: "305 kubectl port-forward deployment/kubernetes-dashboard 9090:9090 --namespace kubernetetes-dashboard")
+
+to execute: `!305`
