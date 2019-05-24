@@ -1,0 +1,6 @@
+From https://medium.com/zendesk-engineering/setting-java-home-on-mac-os-acd44e3a6027
+
+List latest install: /usr/libexec/java_home
+List all installed: /usr/libexec/java_home -V
+
+Set JAVA_HOME to 1.8: export JAVA_HOME=`/usr/libexec/java_home -v "1.8*"`
