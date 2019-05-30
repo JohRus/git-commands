@@ -1,0 +1,3 @@
+Press Ctrl-R to begin a search, then you can type something and it will search back to the last time that command was used.
+
+If you don't want the last command that contained the search word but some other further to the past, then you can hit Ctrl-R again as many times as you'd like.
